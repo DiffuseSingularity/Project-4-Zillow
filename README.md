@@ -98,30 +98,37 @@ Following, a screenshot of the web app is illustrated,
 
 API Links: 
 
-- Project homepage: [https://git.generalassemb.ly/hixjasmi/Project-4-Zillow]('https://git.generalassemb.ly/hixjasmi/Project-4-Zillow') 
+- Project homepage: [https://github.com/hixjas/Project-4-Zillow]('https://github.com/hixjas/Project-4-Zillow') 
  
 
 - Subdirectories:
 
 Code for obtaining data from Zillow.com
 
-[https://git.generalassemb.ly/hixjasmi/Project-4-Zillow/blob/master/zillow_scraper.py]('https://git.generalassemb.ly/hixjasmi/Project-4-Zillow/blob/master/zillow_scraper.py')
+[https://github.com/hixjas/Project-4-Zillow/blob/master/zillow_scraper.py]('https://github.com/hixjas/Project-4-Zillow/blob/master/zillow_scraper.py')
 
 Code for obtaining historical data
-[https://git.generalassemb.ly/hixjasmi/Project-4-Zillow/blob/master/historical_scraper.py]('https://git.generalassemb.ly/hixjasmi/Project-4-Zillow/blob/master/historical_scraper.py')
+[https://github.com/hixjas/Project-4-Zillow/blob/master/historical_scraper.py]('https://github.com/hixjas/Project-4-Zillow/blob/master/historical_scraper.py')
 
 Code for obtaining data from Trulia.com
 
-[https://git.generalassemb.ly/hixjasmi/Project-4-Zillow/blob/master/trulia_scraper.py]('https://git.generalassemb.ly/hixjasmi/Project-4-Zillow/blob/master/trulia_scraper.py')
+[https://github.com/hixjas/Project-4-Zillow/blob/master/trulia_scraper.py]('https://github.com/hixjas/Project-4-Zillow/blob/master/trulia_scraper.py')
 
 Code for obtaining data from Realtor.com
-[https://git.generalassemb.ly/hixjasmi/Project-4-Zillow/blob/master/realtor_scraper.py]('https://git.generalassemb.ly/hixjasmi/Project-4-Zillow/blob/master/realtor_scraper.py')
+[https://github.com/hixjas/Project-4-Zillow/blob/master/realtor_scraper.py]('https://github.com/hixjas/Project-4-Zillow/blob/master/realtor_scraper.py')
 
 Code for making the map
-[https://git.generalassemb.ly/hixjasmi/Project-4-Zillow/blob/master/media_maker.py]('https://git.generalassemb.ly/hixjasmi/Project-4-Zillow/blob/master/media_maker.py')
+[https://github.com/hixjas/Project-4-Zillow/blob/master/media_maker.py]('https://github.com/hixjas/Project-4-Zillow/blob/master/media_maker.py')
 
 Code for running the tool
-[https://git.generalassemb.ly/hixjasmi/Project-4-Zillow/blob/master/app.py]('https://git.generalassemb.ly/hixjasmi/Project-4-Zillow/blob/master/app.py')
+[https://github.com/hixjas/Project-4-Zillow/blob/master/app.py]('https://github.com/hixjas/Project-4-Zillow/blob/master/app.py')
 
 Presentation slides
-[https://git.generalassemb.ly/hixjasmi/Project-4-Zillow/blob/master/Client%20Project.pdf]('https://git.generalassemb.ly/hixjasmi/Project-4-Zillow/blob/master/Client%20Project.pdf')
+[https://github.com/hixjas/Project-4-Zillow/blob/master/Client%20Project.pdf]('https://github.com/hixjas/Project-4-Zillow/blob/master/Client%20Project.pdf')
+
+## Contact Info
+
+Jasmine Hix - email: hixjas@gmail.com <br>
+Alireza Karimi - email: a.karimi@neu.edu <br>
+Amy DeSantis - email: desantis.amy@gmail.com <br>
+Sam Michaelis - email: sam.michaelis@uconn.edu <br>
